@@ -27,7 +27,7 @@ class _RustineDullasState extends State<RustineDullas> {
             children: [
               ClipOval(
                   child: Image.network(
-                    "https://mail.google.com/mail/u/0/popout?ver=1g3ytthb29lwb#attid%253Datt_18e0f4c108dac6d8_0.1_573fe659_a21d19a8_489092c2_19b06c82_65848b78%25252FIMG_3555.jpeg",
+                    "https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.15752-9/431429058_823428052950784_1368498106834735368_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeH6r1w4INiyEja5giGmoaTAl10Og8lkAHWXXQ6DyWQAdaW4JUllvAKzDFy6Bz7ZoL7MVdsArKLHrsJLvai-y3Ki&_nc_ohc=1IpNr-mic84AX-lasDa&_nc_ht=scontent.fmnl9-1.fna&oh=03_AdRm7injj91YZ8iki5qa_CepWVzKxWCj7YjgB1IH3zA8cA&oe=660EB802",
                     height: 80,
                   )),
               Text(
