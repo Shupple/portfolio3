@@ -39,7 +39,7 @@ class _RustineDullasState extends State<RustineDullas> {
                 ),
               ),
               Text(
-                "San Jose, Sta. Ana Pampanga",
+                "San Jose, Sta.  Ana Pampanga",
                 style: TextStyle(
                   fontSize: 11, // Adjust the value according to your preference
                 ),

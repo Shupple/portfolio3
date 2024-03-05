@@ -110,7 +110,7 @@ class MyHomePage extends StatelessWidget {
               title: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text("Rustine Dullas"),
+                  Text("Rustine  Dullas"),
                   ClipOval(child: Image.network("https://scontent.fmnl9-1.fna.fbcdn.net/v/t1.15752-9/431429058_823428052950784_1368498106834735368_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8cd0a2&_nc_eui2=AeH6r1w4INiyEja5giGmoaTAl10Og8lkAHWXXQ6DyWQAdaW4JUllvAKzDFy6Bz7ZoL7MVdsArKLHrsJLvai-y3Ki&_nc_ohc=1IpNr-mic84AX-lasDa&_nc_ht=scontent.fmnl9-1.fna&oh=03_AdRm7injj91YZ8iki5qa_CepWVzKxWCj7YjgB1IH3zA8cA&oe=660EB802", height: 50,)),
                 ],
               ),
